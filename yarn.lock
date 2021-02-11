@@ -9666,6 +9666,11 @@ raw-body@2.4.0:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
+react-animated-social-icons@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-animated-social-icons/-/react-animated-social-icons-1.1.0.tgz#8b0aff71820e96eadef6c8624aea627ee5d4925d"
+  integrity sha512-TM1taeasC4Adl5kfOMTdnq5O44C+v4KQtk50hHDJ1Mp2jbWkMSR7zkvn4eaofoaTdrp7KA+d2dl3uuXbej3RdA==
+
 react-app-polyfill@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/react-app-polyfill/-/react-app-polyfill-2.0.0.tgz#a0bea50f078b8a082970a9d853dc34b6dcc6a3cf"

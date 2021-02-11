@@ -1,5 +1,8 @@
 # Personal website project
 
-## Tech stack: 
+Personal website project available at \ .
+
+## Tech stack:
+
 - React
-- 
+- Chakra UI Framework
