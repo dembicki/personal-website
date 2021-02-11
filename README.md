@@ -6,3 +6,10 @@ Personal website project available at \ .
 
 - React
 - Chakra UI Framework
+
+## TODO:
+
+- Mobile responsive
+- Multilanguage
+- Integration with huroku forms
+- Formik implementation

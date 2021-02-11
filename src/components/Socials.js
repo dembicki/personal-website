@@ -16,11 +16,10 @@ export default function Socials() {
   return (
     <Box position="absolute" bottom="10">
       <ScaleFade in>
-        <Flex width="400px" justify="space-around">
+        <Flex width="430px" justify="space-around">
           {socials.map(e => {
             return (
-
-              <Link href={e.link} isExternal color="white" fontSize="lg">
+              <Link href={e.link} isExternal color="white" fontSize="1.2em">
                 <Flex alignItems="center">
                   <AnimatedSocialIcon
                     brandName={e.name}

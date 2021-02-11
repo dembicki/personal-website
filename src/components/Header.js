@@ -1,5 +1,6 @@
 import React from 'react'
-import { Heading, Text, Flex, Slide, Image } from '@chakra-ui/react';
+import { Heading, Text, Flex, Slide, Image, Link, Button } from '@chakra-ui/react';
+import { DownloadIcon } from '@chakra-ui/icons'
 import avatar from '../assets/me.jpeg';
 import Socials from './Socials';
 
@@ -16,6 +17,7 @@ export default function Header(image) {
           developement and utility first CSS. I also share what i learn on my blog at ...
           or at meetups and conferences.
           </Text>
+        <Button marginTop="10" colorScheme="telegram" width="200px" leftIcon={<DownloadIcon />} size="sm">Download CV</Button>
         <Socials />
       </Flex>
     </Slide>
